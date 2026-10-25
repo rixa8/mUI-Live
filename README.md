@@ -10,10 +10,9 @@
 [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](#)
 
 <p align="center">
-  <!-- ЗАМЕНИ ЭТИ ССЫЛКИ НА СВОИ СКРИНШОТЫ (загрузи их в папку screenshots) -->
-  <img src="./screenshots/screen1.png" width="200" hspace="10"/>
-  <img src="./screenshots/screen2.png" width="200" hspace="10"/>
-  <img src="./screenshots/screen3.png" width="200" hspace="10"/>
+  <img src="./screen1.png" width="200" hspace="10"/>
+  <img src="./screen2.png" width="200" hspace="10"/>
+  <img src="./screen3.png" width="200" hspace="10"/>
 </p>
 
 </div>
